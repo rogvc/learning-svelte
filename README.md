@@ -1,3 +1,3 @@
-# learning-svelte
+# Learning Svelte
 
-Repository containing all the code I generated while learning Svelte. Check each project direcotry for more!
+Repository containing all the code I generated while learning Svelte. Check each project directory for more!
